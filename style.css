@@ -1,0 +1,14 @@
+#name, #age, #skills{
+    text-emphasis-color: white;
+    border-style: none;
+    border: solid 3px rgb(205, 205, 205);
+    border-radius: 5px;
+    background-color: rgb(35, 35, 35);
+    color: white;
+    outline-color: rgb(205, 205, 205);
+    padding: 5px;
+    text-align: center;
+    width: 30%;
+    min-width: 200px;
+    height: 30px;
+}
